@@ -1,3 +1,8 @@
+Final Coding Project for the Frotn End Coding Bootcamp with Promineo during summer of 2022. Fantastic experience, I am looking for more projects to take on and start making up my own from scratch.  Found my new favorite thing to do, writing code!!
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
